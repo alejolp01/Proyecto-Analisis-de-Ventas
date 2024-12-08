@@ -1,7 +1,7 @@
 # Proyecto Análisis de Ventas
 
 ## Descripción
-En este proyecto se analizan dos tablas de excel utilizando la librería de Pandas para obtener información de las ventas. Todos los infromación del proyecto se encuentra en el archivo "Proyecto Analisis de Ventas" 
+En este proyecto, se analizan dos tablas de Excel utilizando la biblioteca Pandas para obtener información sobre las ventas. Todos los datos del proyecto se encuentran en el archivo "Proyecto Análisis de Ventas". Este proyecto lo realicé durante un curso de Data Science con Python.
 
 **Archivo .csv**
 En la carpeta se encontrará "Datos_Ventas_Tienda" y "Datos_Ventas_Tienda2"
