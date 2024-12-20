@@ -6,6 +6,7 @@ En este proyecto, se analizan dos tablas de Excel utilizando la biblioteca Panda
 - Porcentaje de ventas por producto.
 - Ventas totales por mes (incluyendo a cada producto).
 Además se creará una tabla en la cual incluya por cada producto las cantidades vendidas y la suma total de ventas.
+
 **Importante**: El archivo de Power BI NO se puede visualizar en este repositorio en GitHub, por lo tanto para poder visualizarlo se necesita descargar el archivo "Archivo de ventas Power BI"
 
 **Archivo .csv**
