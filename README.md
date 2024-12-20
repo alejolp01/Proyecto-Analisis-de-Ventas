@@ -6,6 +6,7 @@ En este proyecto, se analizan dos tablas de Excel utilizando la biblioteca Panda
 - Porcentaje de ventas por producto.
 - Ventas totales por mes (incluyendo a cada producto).
 Además se creará una tabla en la cual incluya por cada producto las cantidades vendidas y la suma total de ventas.
+**Importante**: El archivo de Power BI NO se puede visualizar en este repositorio en GitHub, por lo tanto para poder visualizarlo se necesita descargar el archivo "Archivo de ventas Power BI"
 
 **Archivo .csv**
 En la carpeta se encontrará "Datos_Ventas_Tienda" y "Datos_Ventas_Tienda2"
@@ -18,7 +19,7 @@ Se encuentra el archivo "Proyecto Analisis de Ventas" (es importante abrirlo con
 **Alejandro López Peña**
 
 ## Instalación
-Este proyecto necesita tener instalado el software de anaconda y utilizar jupiternotebook
+Este proyecto necesita tener instalado el software de anaconda (utilizar jupiternotebook), y Power BI 
 
 ## Contratación
 Si quieres contratarme puedes escribirme a: alejolp390@gmail.com
